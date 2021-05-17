@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+background-color: lightyellow;
+}
+</style>
+
+
+<h1>
+Welcome to my activity page!
+</h1>
+
+
+<h2>
+In this page you will need to sort many different stretches into two diferent categories, dynamic and static.
+</h2>
+
+
+
+
+</html>

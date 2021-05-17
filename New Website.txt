@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<h1>
+Welcome to the Dancers Hand Book!
+</h1>
+
+<h2>
+In this website yopu will learn how to survive through your first dance class.
+</h2>
+
+<img src="https://img.17qq.com/images/qrrqrtqwarx.jpeg"> 
+
+<a href="
+</html>
